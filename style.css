@@ -25,6 +25,7 @@ main {
 }
 
 section#telefone {
+    max-width: 375px;
     position: absolute;
     left: 5%;
     top: 50%;
